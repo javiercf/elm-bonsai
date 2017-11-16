@@ -1,0 +1,9 @@
+{
+  "name": "elm-bonsai",
+  "version": "0.0.1",
+  "description": "Elm project skeleton",
+  "main": "index.js",
+  "repository": "git@github.com:javiercf/elm-bonsai.git",
+  "author": "Javier Cubides <javiercferrans@gmail.com>",
+  "license": "MIT"
+}
